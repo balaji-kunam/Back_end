@@ -9,4 +9,6 @@ const userRegister = asyncHandler(async (req, res) => {
 
 
 // login - POST method
+
+//Get all resources
 export default userRegister;
