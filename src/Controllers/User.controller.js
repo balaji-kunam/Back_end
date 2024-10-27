@@ -7,4 +7,6 @@ const userRegister = asyncHandler(async (req, res) => {
     });
 });
 
+
+// login - POST method
 export default userRegister;
